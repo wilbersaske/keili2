@@ -60,7 +60,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/BrunoSobrino/Mystic-termux.git && cd Mystic-termux
+git clone git clone https://github.com/wilbersaske/keili.git && cd keili && cd Mystic-termux
 ```
 
 ```bash
@@ -71,7 +71,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mystic-termux
+> cd keili
 > npm start
 ```
 
@@ -80,7 +80,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mystic-termux
+> cd keili
 > rm -rf MysticSession
 > npm start
 ```
