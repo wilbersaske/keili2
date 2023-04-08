@@ -15,8 +15,8 @@ global.owner = [
 global.suittag = ['5219993404349'] 
 global.prems = ['51995386439'] 
 
-global.packname = 'ঔৣ͜͡ீ͜❥🌺𝐁𝐎𝐓 𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀˚₊ˑ'
-global.author = '𝑩𝒚 ⏤͟͟͞ঔৣ࣪֒͜͡⍣🍎𝑲𝑬𝑰𝑳𝑰 𝑺.𝑹🍎◍ྀ̟࿐'
+global.packname = 'ঔৣ͜͡ீ͜❥🌺𝐁𝐎𝐓 𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀'
+global.author = '⏤͟͟͞ঔৣ࣪֒͜͡⍣🍎𝑲𝑬𝑰𝑳𝑰 𝑺.𝑹🍎◍ྀ̟࿐'
 global.wm = 'ঔৣ͜͡ீ͜❥🌺𝐁𝐎𝐓 𝐒𝐄𝐓︦︦𝐒𝐔𝐍𝐀˚₊ˑ'
 global.igfg = '𝑩𝒚 ⏤͟͟͞ঔৣ࣪֒͜͡⍣🍎𝑲𝑬𝑰𝑳𝑰 𝑺.𝑹🍎◍ྀ̟࿐'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
