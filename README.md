@@ -60,7 +60,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone git clone https://github.com/wilbersaske/keili.git && cd keili && cd Mystic-termux
+git clone https://github.com/wilbersaske/keili.git && cd keili
 ```
 
 ```bash
